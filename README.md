@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GrillingUXO
-- 👀 I’m interested in Music & ammunition
-- 🌱 I’m currently learning ... C & Python & Java, but my Java is broken bad(
-- 💞️ I’m looking to collaborate on ... music and engineering!
+- 👀 I’m interested in Music & engineering
+- 🌱 I’m currently learning  C & Python & Java, but my Java is as damn as hell
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
