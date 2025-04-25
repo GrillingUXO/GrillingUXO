@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @GrillingUXO
-- 👀 I’m interested in Music & engineering
-- 🌱 I’m currently learning  C & Python & Java, but my Java is as damn as hell
-- 📫 How to reach me ... 
-- 😄 Pronouns: ... Dan(DaMn!)
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Music & material engineering
+- I’m currently using(learning as well) C++ & Python & Java, but my Java is as damn as hell
+- u can call me Dan(DaMn!)
+
 
 <!---
 GrillingUXO/GrillingUXO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
