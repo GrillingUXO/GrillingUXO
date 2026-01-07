@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Guan
-- just feel free to call me Dan(DaMn!)
+- feel free to call me Dan(DaMn!) or Gum
 - 👀 I’m interested in Music and music related subjects
 - I’m currently using(learning as well) C++ & Python & Java, but my Java is as damn as hell
 
