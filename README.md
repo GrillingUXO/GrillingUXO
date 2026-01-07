@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @GrillingUXO
-- 👀 I’m interested in Music
+- 👋 Hi, I’m Daniel Guan
+- just feel free to call me Dan(DaMn!)
+- 👀 I’m interested in Music and music related subjects
 - I’m currently using(learning as well) C++ & Python & Java, but my Java is as damn as hell
-- u can call me Dan(DaMn!)
+
 
 
 <!---
