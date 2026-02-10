@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Daniel Guan
-- feel free to call me Dan or if you want, Solution son(I appreciate).
 - 👀 I’m interested in Music and music related subjects
 - I’m currently using(learning as well) C++ & Python & Java, but my Java is as damn as hell
 
